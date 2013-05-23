@@ -1,0 +1,9 @@
+battery_size : 200
+battery kind : Li-ion
+file :battery_test_dist.csv
+
+
+battery_size : 400
+battery kind : Li-ion
+file :battery_test_dist2.csv
+
